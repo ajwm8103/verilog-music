@@ -1,0 +1,107 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/nfs/ug/homes-0/m/magnuso7/ece253/fun/music
+vdurationms_to_duration
+Z1 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z2 !s110 1665888621
+!i10b 1
+!s100 :2e9DGQOkPV04h0lE:c8V0
+Z3 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I^iD^>MFnj3U6N2H:]DW;_2
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+S1
+R0
+Z5 w1665888238
+Z6 8music.sv
+Z7 Fmusic.sv
+!i122 20
+L0 57 3
+Z8 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z9 !s108 1665888621.000000
+!s107 music.sv|
+Z10 !s90 -reportprogress|300|music.sv|
+!i113 1
+Z11 tCvgOpt 0
+vmusic
+R1
+R2
+!i10b 1
+!s100 =;gO=ECe_`Q74gRPRQE_b2
+R3
+IgGeO4ZT>hg^AbF_0^eG2G2
+R4
+S1
+R0
+R5
+R6
+R7
+!i122 20
+L0 1 33
+R8
+r1
+!s85 0
+31
+R9
+Z12 !s107 music.sv|
+R10
+!i113 1
+R11
+vpitch_to_freq
+R1
+R2
+!i10b 1
+!s100 U_J33[[iEYM6<K39i@m9l3
+R3
+IOOMgm_f=Y3Fddh[KHQ:WP2
+R4
+S1
+R0
+R5
+R6
+R7
+!i122 20
+L0 35 21
+R8
+r1
+!s85 0
+31
+R9
+R12
+R10
+!i113 1
+R11
+vsong_level1
+R1
+R2
+!i10b 1
+!s100 k99SjK4Q1j[oc^9<?@VS13
+R3
+I_>SCkOXK113L4f?ZWLi]o1
+R4
+S1
+R0
+R5
+R6
+R7
+!i122 20
+L0 61 11
+R8
+r1
+!s85 0
+31
+R9
+R12
+R10
+!i113 1
+R11
